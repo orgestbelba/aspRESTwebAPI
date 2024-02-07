@@ -1,7 +1,7 @@
 # aspRESTwebAPI
 
 This repository contains a straightforward ASP.NET Web API project designed to facilitate CRUD (Create, Read, Update, Delete) operations for each entity (Customer, Product, Order). 
-It utilizes essential features such as Repository Control, Dependency Injection, and the Entity Framework as the Object-Relational Mapping (ORM) tool, alongside Fluent API and AutoMapper for efficient data manipulation.
+It utilizes essential features such as Repository Pattern, Dependency Injection, and the Entity Framework as the Object-Relational Mapping (ORM) tool, alongside Fluent API and AutoMapper for efficient data manipulation.
 Additionally, the repository includes an AppDbInitializer class created to seed initial data into the database.
 
 ## Prerequisites
